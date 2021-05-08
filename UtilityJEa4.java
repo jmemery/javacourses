@@ -85,5 +85,6 @@ Your total bill this month is 16.14
 
 Would you like to run another bill query?
 Enter Y for yes or N for no: no
+end
 jase@jase-desktop-ml:~$ 
 */
